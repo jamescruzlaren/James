@@ -1,4 +1,4 @@
-# James
+# norms
 pkg install python -y
 pkg install git -y
 apt update && apt full-upgrade -y
@@ -9,4 +9,4 @@ pip install requests
 termux-setup-storage
 git clone https://github.com/jamescruzlaren/James.git
 cd james
-python james.py
+python norms.py
