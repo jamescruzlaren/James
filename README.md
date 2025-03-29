@@ -8,5 +8,5 @@ pip install rich
 pip install requests
 termux-setup-storage
 git clone https://github.com/jamescruzlaren/James.git
-cd james
+cd norms
 python norms.py
